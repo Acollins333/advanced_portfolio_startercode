@@ -5,8 +5,18 @@
 h1{
     color: purple;
     }
+body{
+    background-color: black;
 
-
+}
+.carousel-item{
+    height:900px;
+    width: 630px;
+}
+.navbar{
+    opacity: 0.2;
+    filter: brightness(0.9);
+}
 /* Section CSS */
 
 
